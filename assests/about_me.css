@@ -49,3 +49,7 @@ ul {
     background-color: #b9c6ae;
     padding: 20px;
   }
+
+  li {
+    display: inline;
+  }
