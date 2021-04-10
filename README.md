@@ -39,7 +39,7 @@ manuelybarra2006@yahoo.com
 github.com/mybarra06
 
 ## Link 
-https://github.com/mybarra06/MannysPortfolio
+https://mybarra06.github.io/MannysPortfolio/
 
 ## Usage 
 Showing potential employers my portfolio.

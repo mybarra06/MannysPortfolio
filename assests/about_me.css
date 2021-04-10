@@ -54,3 +54,14 @@ ul {
     display: inline;
    
   }
+
+  
+.sm_proj1,
+.sm_proj2,
+.sm_proj3 {
+  width: 30%;
+  border-radius: 75%;
+  margin-left: auto;
+  margin-top: 20px;
+  background-repeat: repeat;
+}
